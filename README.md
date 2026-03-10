@@ -57,7 +57,7 @@ Custom dataset with 3 classes:
 ## How to Run
 
 ### 1. Clone the Repository
-git clone https://github.com/DeviSrinivasan1325/child-safety-detection.git
+git clone-https://github.com/DeviSrinivasan1325/Deep-Learning-Project
 cd child-safety-detection
 
 ### 2. Install Requirements
