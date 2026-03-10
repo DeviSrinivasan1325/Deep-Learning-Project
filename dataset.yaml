@@ -1,8 +1,0 @@
-path: dataset
-train: images/train
-val: images/test
-
-names:
-  0: child
-  1: knife
-  2: scissors
